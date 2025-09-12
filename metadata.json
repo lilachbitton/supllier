@@ -1,0 +1,6 @@
+
+{
+  "name": "Origami CRM Supplier Agreement Widget",
+  "description": "A widget to prepare supplier agreements by selecting a subcontractor and a project from Origami CRM.",
+  "requestFramePermissions": []
+}
