@@ -221,7 +221,7 @@ const AgreementForm: React.FC = () => {
 
     const handleSubmit = () => {
         if (selectedSubcontractor && selectedProject) {
-            const baseUrl = 'https://agreemant.vercel.app/#/subcontractor';
+            const baseUrl = 'https://priceq-h.vercel.app/#/subcontractor';
             const params = new URLSearchParams({
                 projectAddress: selectedProject.address,
                 firstName: selectedProject.firstName,
